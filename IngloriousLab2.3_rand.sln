@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngloriousLab2.3_rand", "IngloriousLab2.3_rand\IngloriousLab2.3_rand.csproj", "{E957D702-30EA-43F2-BA62-44523FC69E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E957D702-30EA-43F2-BA62-44523FC69E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E957D702-30EA-43F2-BA62-44523FC69E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E957D702-30EA-43F2-BA62-44523FC69E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E957D702-30EA-43F2-BA62-44523FC69E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

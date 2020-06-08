@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E957D702-30EA-43F2-BA62-44523FC69E45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IngloriousLab2.3_rand/Program.cs">
+    <Files>
+      <File FileName="IngloriousLab2.3_rand/Program.cs" Line="28" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IngloriousLab2.3_rand" expanded="True">
+            <Node name="IngloriousLab2.3_rand" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IngloriousLab2.3__rand PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
